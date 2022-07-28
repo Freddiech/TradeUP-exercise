@@ -14,3 +14,4 @@
     - Be sure to include all the records, there must be multiple rows with correct information populated
 
     - Open Interest column needs to be in Integer data format
+![img.png](img.png)
